@@ -33,4 +33,4 @@ motorsName.Move(LeftSpeed, RightSpeed);
 ## License ##
 
 MotorControl by [dekoner](https://github.com/dekoner "dekoner") is licensed under a MIT License.
-See [LICENSE](https://github.com/ErickSimoes/Ultrasonic/blob/master/LICENSE) for details.
+See [LICENSE](https://github.com/dekoner/MotorControl/blob/master/LICENSE) for details.
