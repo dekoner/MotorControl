@@ -16,7 +16,7 @@ Motors motorsName(LeftForward, LeftBackward, RightForward, RightBackward);
 ~~~
 ~~~
 motorsName	: имя объекта
-LeftForward : пин, отвечающий за движение левого мотора вперед
+LeftForward	 : пин, отвечающий за движение левого мотора вперед
 LeftBackward	: пин, отвечающий за движение левого мотора назад
 RightForward	: пин, отвечающий за движение правого мотора вперед
 LeftBackward	: пин, отвечающий за движение правого мотора назад
